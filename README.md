@@ -6,3 +6,10 @@ other note! of you destroy any blocks then your ball size will be smaller!
 do not worry about smalling your ball! just continue to try and after you will, there is no jail 
 and no small ball in bad situation and your ball will be grown to fill every where.
 you should to try in your life as this ball! do not worry and try! every thing will be changes in a incredible moments! 
+![image](https://github.com/maziar-ghanbari/BallAndPaddle/assets/55378791/cf730524-0c2b-44a2-a274-4aa9499bcf1b)
+
+![image](https://github.com/maziar-ghanbari/BallAndPaddle/assets/55378791/d07c8ba7-e786-4358-8fe5-36a12994308b)
+
+![image](https://github.com/maziar-ghanbari/BallAndPaddle/assets/55378791/7386ec78-1b48-4301-bdb6-b51720270c02)
+
+![image](https://github.com/maziar-ghanbari/BallAndPaddle/assets/55378791/59d1940a-3489-43f0-99cb-adcded74ada0)
